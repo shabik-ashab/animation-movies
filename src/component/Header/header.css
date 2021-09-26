@@ -1,0 +1,16 @@
+.header-txt{
+    color: rgb(158, 9, 84);
+}
+.header-txt span{
+    font-size: 3rem;
+    font-style: bold;
+    color: red;
+    position: relative;
+    top: 10px;
+}
+.header{
+   background-color: palevioletred;
+}
+.header-nav{
+    margin-left: 50%;
+}
